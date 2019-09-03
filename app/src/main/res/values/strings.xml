@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pdf Viewer</string>
+    <string name="btn1">download file</string>
+    <string name="btn2">view file</string>
+</resources>
